@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\webgame\\github\\UTF8_VSIX\\UTF8_VSIX\\UTF8_VSIX.csproj": {}
+  },
+  "projects": {
+    "E:\\webgame\\github\\UTF8_VSIX\\UTF8_VSIX\\UTF8_VSIX.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\webgame\\github\\UTF8_VSIX\\UTF8_VSIX\\UTF8_VSIX.csproj",
+        "projectName": "UTF8_VSIX",
+        "projectPath": "E:\\webgame\\github\\UTF8_VSIX\\UTF8_VSIX\\UTF8_VSIX.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "E:\\webgame\\github\\UTF8_VSIX\\UTF8_VSIX\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Microsoft.VSSDK.BuildTools": {
+              "target": "Package",
+              "version": "[16.0.2268, )"
+            },
+            "Microsoft.VisualStudio.SDK": {
+              "include": "Compile, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "target": "Package",
+              "version": "[15.9.3, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

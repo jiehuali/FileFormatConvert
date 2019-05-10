@@ -1,0 +1,16 @@
+E:\webgame\github\UTF8_VSIX\UTF8_VSIX\bin\Release\UTF8_VSIX.dll
+E:\webgame\github\UTF8_VSIX\UTF8_VSIX\bin\Release\UTF8_VSIX.pdb
+E:\webgame\github\UTF8_VSIX\UTF8_VSIX\bin\Release\UTF8_VSIX.pkgdef
+E:\webgame\github\UTF8_VSIX\UTF8_VSIX\bin\Release\UTF8_VSIX.vsix
+E:\webgame\github\UTF8_VSIX\UTF8_VSIX\bin\Release\extension.vsixmanifest
+E:\webgame\github\UTF8_VSIX\UTF8_VSIX\obj\Release\UTF8_VSIX.csprojAssemblyReference.cache
+E:\webgame\github\UTF8_VSIX\UTF8_VSIX\obj\Release\_EmptyResource.resources
+E:\webgame\github\UTF8_VSIX\UTF8_VSIX\obj\Release\UTF8_VSIX.csproj.GenerateResource.cache
+E:\webgame\github\UTF8_VSIX\UTF8_VSIX\obj\Release\UTF8_VSIX.csproj.CoreCompileInputs.cache
+E:\webgame\github\UTF8_VSIX\UTF8_VSIX\obj\Release\UTF8_VSIX.dll
+E:\webgame\github\UTF8_VSIX\UTF8_VSIX\obj\Release\UTF8_VSIX.pdb
+E:\webgame\github\UTF8_VSIX\UTF8_VSIX\obj\Release\UTF8_VSIX.pkgdef
+E:\webgame\github\UTF8_VSIX\UTF8_VSIX\obj\Release\UTF8_VSIX.latest.pkgdef
+E:\webgame\github\UTF8_VSIX\UTF8_VSIX\obj\Release\extension.vsixmanifest
+E:\webgame\github\UTF8_VSIX\UTF8_VSIX\obj\Release\files.json
+E:\webgame\github\UTF8_VSIX\UTF8_VSIX\obj\Release\createTemplateManifests.cache
